@@ -1,0 +1,1 @@
+Since Flipkart does not allow web scrapers to scrape their data, you need to go to the settings.py file in MobileData and change ROBOTSTXT_OBEY from True to False.
